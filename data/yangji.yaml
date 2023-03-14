@@ -1,0 +1,10 @@
+train: yangji_theta/images/train
+val: yangji_theta/images/val
+
+# number of classes
+nc: 3
+
+# class names
+# names: ['WangWang', 'Oreo', "chocolate", "cookies"]
+names: ['outline', 'theta', 'antenna']
+

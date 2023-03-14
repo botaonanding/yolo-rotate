@@ -1,0 +1,11 @@
+train: D:/mision/yolov5-5.0/dota_split/images/train/
+val: D:/mision/yolov5-5.0/dota_split/images/val/
+
+# number of classes
+nc: 16
+
+# class names
+names: ['plane', 'baseball-diamond', 'bridge', 'ground-track-field', 'small-vehicle',
+         'large-vehicle', 'ship', 'tennis-court', 'basketball-court', 'storage-tank',
+         'soccer-ball-field', 'roundabout', 'harbor', 'swimming-pool', 'helicopter',
+         'container-crane']
