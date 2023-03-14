@@ -1,0 +1,14 @@
+train: HRSC2016/images/train
+val: HRSC2016/images/val
+
+# number of classes
+nc: 2
+
+# class names
+#names: ['ship', 'aircraft carrier', 'warcraft', 'merchant', 'Nimitz', 'Enterprise', 'Arleigh Burke',
+#        'WhidbeyIsland', 'Perry', 'Sanantonio', 'Ticonderoga', 'Kitty Hawk', 'Kuznetsov', 'Abukuma',
+#        'Austen', 'Tarawa', 'Blue Ridge', 'Container', 'OXo', 'Car carrier', 'Hovercraft', 'yacht',
+#        'CntShip', 'Cruise', 'submarine', 'lute', 'Medical', 'Car carrier', 'Ford-class', 'Midway-class',
+#        'Invincible-class']
+#names: ['ship', 'aircraft carrier', 'warcraft', 'merchant']
+names: ['ship', 'warcraft']

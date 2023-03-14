@@ -1,0 +1,9 @@
+train: VOC_yaoge_2/images/train  # 1564 images
+val: VOC_yaoge_2/images/val  # 435 images
+
+# number of classes
+nc: 5
+
+# class names
+# names: ['WangWang', 'Oreo', "chocolate", "cookies"]
+names: ['weita', 'box', "cookie", "calculator", "milk"]

@@ -1,0 +1,10 @@
+train: Voc_yaoge_3/images/train
+val: Voc_yaoge_3/images/val
+
+# number of classes
+nc: 4
+
+# class names
+# names: ['WangWang', 'Oreo', "chocolate", "cookies"]
+names: ['weita', 'WangWang', "cookie", "tissue"]
+
